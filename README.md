@@ -1,2 +1,2 @@
 # CS50w
-Assignments
+Projects
